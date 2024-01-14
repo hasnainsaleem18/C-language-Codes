@@ -1,6 +1,6 @@
 Read Me:
 
-This repository contains a set of C++ programs addressing various tasks. Each program is designed to perform specific operations, such as finding the largest integer, checking even/odd numbers, calculating attendance for exam eligibility, determining leap years, and more.
+This repository contains a set of C programs addressing various tasks. Each program is designed to perform specific operations, such as finding the largest integer, checking even/odd numbers, calculating attendance for exam eligibility, determining leap years, and more.
 
 1. Find the Largest Integer:
    Reads two integers from the user.
