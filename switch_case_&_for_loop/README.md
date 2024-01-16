@@ -22,3 +22,8 @@ This repository contains a set of C programs addressing various mathematical ope
 5. Display Prime Numbers:
     Takes two numbers from the user.
     Displays all prime numbers between the given range.
+6. Random Walk:
+    1. Report the total distance traveled.
+    2. Report the total number of steps.
+    3. Report the average distance traveled per step. (Make sure that the case of zero steps and zero
+    distance traveled does not cause problems.)

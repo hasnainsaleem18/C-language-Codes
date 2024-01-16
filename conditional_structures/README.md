@@ -29,3 +29,9 @@ This repository contains a set of C programs addressing various tasks. Each prog
 8. Largest Odd Number Checker:
     Examines three variables (x, y, z).
     Prints the largest odd number among them or a message if none are odd.
+9. Quadratic Equation:
+    If disc. is greater than zero then roots are real and unequal.
+    If disc. is less than zero then roots are imaginary.
+    If dics. is equal to zero then roots are real.
+10. The program should display the appropriate seminar fee, which is based on a person’s
+    membership status and age.
