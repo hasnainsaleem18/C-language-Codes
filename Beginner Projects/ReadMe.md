@@ -42,6 +42,26 @@ Write a C program that display the menu of restaurant. Ask the user to choose th
 list i-e Espresso, over Ice , fusion etc. let’s assume user have selected over ice option show the menu
 along with the prices for regular as well as small. Ask for the item name, size, and quantity. After that
 your program should ask again choose the item from the menu list 1-e Espresso, over Ice, fusion etc.
-
 and keep choosing until user press N or enter no. Once user done with the menu display the total bill
 that includes the total price and tax along with service charge.
+
+Problem: 5
+Given two arrays of strings a1 and a2 return a sorted array r in lexicographical order of the
+strings of a1 which are substrings of strings of a2.
+You have to create a function named:
+void sorted_array(char arr1[5][10], char arr2[5][10], char r[5][10]);
+that will populate the array r by following the above condition.
+Use your file handling concepts to take the input from a file “q1_input.txt” and display the
+output in “q1_output.txt”
+
+Problem: 6
+Given a string of random letters, you need to examine each.
+Some letters naturally have 'rings' in them. 'O' is an obvious example, but 'b', 'p', 'e', 'A', etc
+are all just as applicable. 'B' even has two rings.
+Your job is to count those letters that have no rings and divide the total number by 2. Round
+the answer down. Once you have your final score:
+if the score is 1 or less, return 'Not even a medal!'; if the score is 2, return 'Bronze!'; if the
+score is 3, return 'Silver!'; if the score is more than 3, return 'Gold!’.
+
+
+
